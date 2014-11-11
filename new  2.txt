@@ -1,0 +1,7 @@
+srm logo
+pr remove
+force remove
+video icon about us
+link of you tube
+vfx color red
+image gallery.php
